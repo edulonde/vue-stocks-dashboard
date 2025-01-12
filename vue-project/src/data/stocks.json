@@ -1,0 +1,74 @@
+{
+  "stocks": [
+    {
+      "codigo": "AMOB3",
+      "nome": "Automob Participações S.A.",
+      "preco": 0.35,
+      "quantidade": 2500,
+      "valor": 875.00
+    },
+    {
+      "codigo": "BBAS3",
+      "nome": "Banco do Brasil",
+      "preco": 24.21,
+      "quantidade": 340,
+      "valor": 8231.40
+    },
+    {
+      "codigo": "BEES4",
+      "nome": "Banco do Estado do Espirito Santo",
+      "preco": 8.43,
+      "quantidade": 440,
+      "valor": 3709.20
+    },
+    {
+      "codigo": "CMIG4",
+      "nome": "Companhia Energética de Minas",
+      "preco": 10.47,
+      "quantidade": 225,
+      "valor": 2355.75
+    },
+    {
+      "codigo": "CPLE6",
+      "nome": "Copel",
+      "preco": 8.76,
+      "quantidade": 76,
+      "valor": 665.76
+    },
+    {
+      "codigo": "CMIN3",
+      "nome": "CSN Mineração",
+      "preco": 4.85,
+      "quantidade": 745,
+      "valor": 3613.25
+    },
+    {
+      "codigo": "GGBR4",
+      "nome": "Gerdau",
+      "preco": 16.80,
+      "quantidade": 340,
+      "valor": 5712.00
+    },
+    {
+      "codigo": "PETR4",
+      "nome": "Petrobras",
+      "preco": 36.94,
+      "quantidade": 165,
+      "valor": 6095.10
+    },
+    {
+      "codigo": "RECV3",
+      "nome": "PetroRecôncavo",
+      "preco": 16.36,
+      "quantidade": 100,
+      "valor": 1636.00
+    },
+    {
+      "codigo": "TAEE4",
+      "nome": "Taesa S.A.",
+      "preco": 10.97,
+      "quantidade": 800,
+      "valor": 8776.00
+    }
+  ]
+}
